@@ -19,6 +19,9 @@ if it doesn't work try:
 ```
 python3 main.py
 ```   
-that should work.
+that should work.  
+
+
+![Screenshot 2021-12-27 184012](https://user-images.githubusercontent.com/66886354/147491013-eb4f0e71-a1a5-4ffd-93f4-1e87bb362868.jpg)
 
 
