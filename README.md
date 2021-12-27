@@ -22,5 +22,10 @@ python3 main.py
 that should work.  
 
 
+![Screenshot 2021-12-27 184209](https://user-images.githubusercontent.com/66886354/147491153-89a7903b-3603-4674-82f9-8e2cca569271.jpg)  
+
+
+![Screenshot 2021-12-27 184258](https://user-images.githubusercontent.com/66886354/147491192-b36974d4-a6df-4e34-9062-6c7be5b884da.jpg)
+
 
 
